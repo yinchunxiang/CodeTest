@@ -1,0 +1,2 @@
+Question: Given a list of people and their salaries  like  (  900, 600, 10000, 400, 551, ... ) and a target for total budget cut (say 1000), we want to compute the salary cut from each person. The goal is to distribute the budget cut as evenly as possible among all people (here "even" is in term of absolute amount, not in term of percentage). The constraint is  that no person should have a salary lower than the minimum wage (say 350)  after the cut.
+
